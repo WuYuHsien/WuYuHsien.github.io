@@ -1,0 +1,23 @@
+h1 {
+    position: absolute;
+    top: 200px;
+    right: 550px;
+}
+
+p {
+    position: absolute;
+    left: 90px;
+    top: 60px;
+}
+
+div {
+    position: absolute;
+    left: 40px;
+    bottom: 50px;
+}
+
+img {
+    position: absolute;
+    top: 85px;
+    right: 40px
+}
