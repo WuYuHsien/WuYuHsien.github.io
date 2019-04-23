@@ -1,0 +1,33 @@
+p1,
+p2,
+p3,
+p4,
+p7,
+p71 {
+    position: relative;
+    left: 60px;
+}
+
+p12 {
+    position: absolute;
+    top: 450px;
+    right: 50px
+}
+
+p51 {
+    position: relative;
+    left: 60px;
+}
+
+p53 {
+    position: absolute;
+    right: 60px;
+    top: 2960px;
+}
+
+p52 {
+    position: absolute;
+    right: 470px;
+    top: 2960px;
+    height: 200px;
+}
